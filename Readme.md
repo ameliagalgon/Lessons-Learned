@@ -1,4 +1,4 @@
-Things I have learned at Bloc.io
+#Things I have learned at Bloc.io
 * Markdown syntax
 * Some command line commands
 * New HTML5 tags
